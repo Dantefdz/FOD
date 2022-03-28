@@ -1,0 +1,37 @@
+Codigo1
+Nombre:MI A2
+Descripcion:  hola mundo
+Marca:  Xiaomi
+Precio:  2.0000000000000000E+002
+Stock minimo: 50
+Stock disponible: 0Codigo2
+Nombre:iPhone 8
+Descripcion:  alto celu mundo
+Marca:  Apple
+Precio:  6.0000000000000000E+002
+Stock minimo: 20
+Stock disponible: 40Codigo3
+Nombre:A50
+Descripcion:  celu
+Marca:  Samsung
+Precio:  5.0000000000000000E+002
+Stock minimo: 50
+Stock disponible: 40Codigo4
+Nombre:CELULARDURO
+Descripcion:  celu
+Marca:  Nokia
+Precio:  1.5000000000000000E+002
+Stock minimo: 50
+Stock disponible: 30Codigo5
+Nombre:A10
+Descripcion:  celular de mierda gama baja
+Marca:  Samsung
+Precio:  2.0000000000000000E+002
+Stock minimo: 30
+Stock disponible: 60Codigo6
+Nombre:iPhone 20 Pro Max
+Descripcion:  El ultimo iphone con un 10 teras
+Marca:  Apple
+Precio:  1.0000000000000000E+003
+Stock minimo: 20
+Stock disponible: 0

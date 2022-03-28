@@ -1,0 +1,6 @@
+1 dante
+2 2 fernandez
+2 candela
+1 6 rolon
+3 lionel
+3 3 messi
